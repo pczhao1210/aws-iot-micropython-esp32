@@ -1,0 +1,11 @@
+{
+    "iot_core_address" : "<aws iot endpoint>",
+    "device_name" : "<device id>",
+    "public_topic" : "<publish topic>",
+    "subscribe_topic" : "<subscribe topic>",
+    "certPath" : "./cert/<cert file>",
+    "keyPath" : "./cert/<key file>",
+    "refresh_rate" : 10,
+    "ssid" : "<Wifi SSID>",
+    "password" : "<WIFI Password>"
+}
